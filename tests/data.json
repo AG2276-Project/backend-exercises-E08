@@ -1,0 +1,25 @@
+{
+  "albums": [
+    {
+      "artist": "Toto",
+      "title": "Toto IV",
+      "year": 1982,
+      "genre": "Pop",
+      "tracks": 10
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "The Wall",
+      "year": 1979,
+      "genre": "Progressive Rock",
+      "tracks": 26
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Kind of Blue",
+      "year": 1959,
+      "genre": "Jazz",
+      "tracks": 5
+    }
+  ]
+}
